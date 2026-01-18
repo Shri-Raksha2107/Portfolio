@@ -1,0 +1,37 @@
+body{
+    background-color: beige;
+}
+.raksha-name {
+    font-size: 48px;
+    color: rgb(112, 29, 29);
+    margin: 80px 0 20px 120px;
+}
+
+.raksha-text {
+    font-size: 27px;
+    max-width: 1080px;
+    margin-left: 120px;
+    margin-bottom: 60px;
+    line-height: 1.6;
+    color: rgb(112, 29, 29);
+}
+.terminal {
+    background-color: #5a4634;
+    color: #f5f0e6;
+    font-family: "Courier New", monospace;
+    padding: 40px;
+    border-radius: 15px;
+    width: 75%;
+    margin: 0 auto 80px auto; 
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.3);
+    margin-left: 120px;
+}
+.terminal a{
+    color: #f5f0e6;
+}
+.foot{
+    margin-top:auto;
+    margin-left:650px;
+}
+
+
